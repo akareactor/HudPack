@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-namespace KulibinSpace.SimpleAltimeterWidget.Demo {
+namespace KulibinSpace.HudPack.Demo {
     
 	public class Demo : MonoBehaviour {
 
