@@ -1,8 +1,8 @@
 {
-	"name": "space.kulibin.saltwidget",
+	"name": "space.kulibin.hudpack",
 	"version": "1.0.0",
-	"displayName": "Kulibin Simple Altimeter Widget",
-	"description": "This is a simple altimeter widget",
+	"displayName": "Kulibin HUD Pack",
+	"description": "This is a HUD widgets collection",
 	"author": {
 		"name": "Kulibin.Space",
 		"email": "akareactor@mail.ru",
